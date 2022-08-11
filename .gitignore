@@ -1,0 +1,8 @@
+css/*.css.map
+css/*.css
+!css/style.css
+!css/style.min.css
+img/text.txt
+node_modules/
+*.json
+!package.json
